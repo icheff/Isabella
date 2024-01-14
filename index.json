@@ -1,0 +1,61 @@
+<section id="kZQwvsp" data-type="section">
+  <style id="jlLCDhY" type="text/css">
+    
+  @media screen and (min-width:0px){#gttzbwQ{width:100vw;height:100vh;position:relative}}
+  @media screen and (min-width:0px){#iJipIXv{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#EiQKUGq{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#GOYmSNv{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#NoRUgMw{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#aOpjFGa{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10; background:inherit;}}
+  @media screen and (min-width:0px){#WZsUSCX{width:100%;height:100%;object-fit:cover;position:absolute;top:0; z-index:-10;}}
+  @media screen and (min-width:0px){#JvcgpmE{width:100%;height:100%;display:grid;place-content: center start;}}
+  @media screen and (min-width:0px){#oZbViVW{display:grid;padding:5%;max-width: 1100px;gap:35px;}}
+  @media screen and (min-width:0px){#snpMzue{font-size:clamp(4rem,8vw,8rem);line-height:90%;font-weight:900;color:white;}}
+  @media screen and (min-width:0px){#CvBgIrO{font-size:clamp(1rem,2vw,2rem);color:white;}}
+  @media screen and (min-width:0px){#GKoESPD{display:flex;gap:10px;}}
+  @media screen and (min-width:0px){#SUNCCNA{background:black;padding:20px;color:white;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (min-width:0px){#TGrKpCI{background:white;padding:20px;color:black;font-size:14px;border-radius:10px;text-underline-position:under;}}
+  @media screen and (max-width:640px){#oZbViVW{gap:10px;}}
+  
+  </style>
+  
+  <div id="gttzbwQ" data-type="container">
+    <div id="vozyshE" data-type="backgrounds">
+      
+      <div id="EiQKUGq" data-type="bg-color" class="div-hidden">
+        <div id="GOYmSNv" data-type="solid-color" class="div-visible" style="background: rgb(0, 0, 255);"></div>
+        <div id="NoRUgMw" data-type="radial-color" class="div-hidden" style="background: radial-gradient(circle, rgb(0, 255, 128), rgb(200, 0, 255));"></div>
+        <div id="aOpjFGa" data-type="linear-color" class="div-hidden" style="background: linear-gradient(0deg, rgba(255,0,0,0), rgba(255,0,0,1));"></div>
+      </div> <!-- bg-color -->
+
+      <div id="kJDDjjI" data-type="bg-image" class="div-visible">
+        <picture id="qcfwPni">
+          <source srcset="" media="(max-width:640px)">
+          <source srcset="" media="(min-width:641px) and (max-width:1024px)">
+          <img id="iJipIXv" src="./assets/image/tapas-hero1.png" data-type="img-bg" loading="lazy">
+        </picture>
+      </div> <!-- bg-image -->
+
+      <div id="ToDkzXB" data-type="bg-video" class="div-hidden">
+        <video id="WZsUSCX" autoplay="" loop="" muted="">
+          <source src="https://previews.customer.envatousercontent.com/0e86408d-ad59-4c94-8e0d-8799ad96d063/watermarked_preview/watermarked_preview.mp4" type="video/mp4">
+        </video>
+      </div> <!-- bg-video -->
+
+    </div> <!-- backgrounds -->
+
+    <div id="JvcgpmE" data-type="content">
+      <div id="oZbViVW">
+        <h2 id="snpMzue" contenteditable="true">This is home page</h2>
+        <p id="CvBgIrO" contenteditable="true">Lorem ipsum dolor sit amet consectur et sermont...</p>
+        <div id="GKoESPD">
+          <a id="SUNCCNA" contenteditable="true" href="https://www">LOREM IPSUM</a>
+          <a id="TGrKpCI" contenteditable="true" href="https://www">LOREM IPSUM</a>
+        </div> <!-- div2ID -->
+      </div> <!-- div1ID -->
+    </div> <!-- content -->
+  </div> <!-- container -->
+  <button class="toolbar-open" onclick="toolsOpenModal(this);">
+    <img src="../global/file/edit-section.svg">
+  </button>
+</section>
